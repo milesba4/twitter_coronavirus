@@ -4,13 +4,12 @@ For this project I used a technique called mapreduce to extract data from all co
 
 
 #languages
-![#코로나바이러스]('#코로나바이러스_lang.png')
-<img src='#코로나바이러스_lang.png' width=100% />
-![coronavirus]('#coronavirus_lang.png')
+![#코로나바이러스](코로나바이러스_lang.png)
+![coronavirus](coronavirus_lang.png)
 
 #country 
-![#코로나바이러스]('#코로나바이러스_country.png')
+![#코로나바이러스](코로나바이러스_country.png)
 
 
-![coronavirus]('#coronavirus_country.png')
+![coronavirus](coronavirus_country.png)
 
