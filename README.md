@@ -3,11 +3,11 @@ For this project I used a technique called mapreduce to extract data from all co
 
 
 
-#languages
+# languages
 ![#코로나바이러스](코로나바이러스_lang.png)
 ![coronavirus](coronavirus_lang.png)
 
-#country 
+# country 
 ![#코로나바이러스](코로나바이러스_country.png)
 
 
